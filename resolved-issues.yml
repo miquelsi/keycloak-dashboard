@@ -136,3 +136,10 @@ issues:
     resolves: [
       "5642817833/*"
     ]
+  - id: account2-1
+    description: "org.keycloak.testsuite.ui.account2.UpdateEmailTest.updateEmailLinkVisibleWithUpdateEmailActionEnabled"
+    issue: 23336
+    resolves : [
+      "6421386411/Account Console IT (firefox)",
+    ]
+
